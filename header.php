@@ -20,7 +20,7 @@
                         <?php
                         else:
                         ?>
-                            <h3><?php echo bloginfo('name'); ?></h3>
+                            <h3><?php  bloginfo('name'); ?></h3>
                     <?php
                     endif;
                     ?>
